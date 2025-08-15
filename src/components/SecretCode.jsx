@@ -7,7 +7,7 @@ import { Lock, Heart, Sparkles } from "lucide-react"
 export default function SecretCode({ onUnlock }) {
   const [code, setCode] = useState("")
   const [isWrong, setIsWrong] = useState(false)
-  const secretCode = "143"
+  const secretCode = "051108"
 
   const handleSubmit = (e) => {
     e.preventDefault()
