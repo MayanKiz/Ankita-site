@@ -91,7 +91,7 @@ export default function SecretCode({ onUnlock }) {
                 >
                   Enter the code to unlock my heart💕
                 </motion.p>
-                <p className="text-white/50 text-sm"><span className="text-black/80">💡</span>Hint: Three numbers that mean "I Love You"</p>
+                <p className="text-white/50 text-sm"><span className="text-black/80">💡</span>Hint: Six Numbersthat are very special. </p>
               </div>
             </div>
 
@@ -105,8 +105,8 @@ export default function SecretCode({ onUnlock }) {
                     ? "border-red-400/50 focus:ring-red-400/20 text-red-300"
                     : "border-white/20 focus:ring-pink-400/20 focus:border-pink-400/50 text-white"
                 }`}
-                placeholder="❤❤❤"
-                maxLength={3}
+                placeholder="❤❤️❤️❤️❤❤"
+                maxLength={6}
               />
 
               <motion.button
@@ -130,7 +130,7 @@ export default function SecretCode({ onUnlock }) {
                 animate={{ opacity: 1, y: 0 }}
                 className="text-red-300 text-sm bg-red-500/10 rounded-full px-4 py-2 border border-red-400/20"
               >
-                💕Try again, my love! Think of our special number
+                💕Try again, madamji! Think of our special number
               </motion.p>
             )}
           </div>
