@@ -18,10 +18,10 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/confession-site.git
+git clone https://github.com/MayanKiz/Ankita-site
 
 # Navigate into the folder
-cd confession-site
+cd Ankita-site
 
 # Install dependencies
 npm install
@@ -47,6 +47,6 @@ Follow me for more emotional surprise websites and creative dev content:
 
 ## ⭐ Support
 
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
+If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/MayanKiz)  
 Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
+Made with emotions by **Mayank** – @rao_m4y4nk
